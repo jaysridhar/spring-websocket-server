@@ -2,6 +2,11 @@ package sample;
 
 import java.util.Date;
 
+/*
+ * Output message sent to client.
+ *
+ * @Author Jay Sridhar
+ */
 public class OutputMessage
 {
     private String from;
